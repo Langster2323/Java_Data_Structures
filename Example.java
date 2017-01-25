@@ -1,3 +1,4 @@
+//This is how to import a package...
 import com.teamtreehouse.Treet;
 
 public class Example {
